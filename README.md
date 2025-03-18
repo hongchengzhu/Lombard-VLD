@@ -1,5 +1,5 @@
 # Lombard-VLD
-Official emplementation of Lombard-VLD (IEEE S\&P 25)
+Official implementation of Lombard-VLD (IEEE S\&P 25)
 
 ## What we provided
 
@@ -15,7 +15,7 @@ The acceptance was reported by our school at [link](https://cse.whu.edu.cn/info/
 
 We provide examples of partial speech (including plain and Lombard) at [link](https://hongchengzhu.github.io/Lombard-VLD-speech-examples/). If you need the entire dataset for research, please feel free to contact us! 
 
-## Code emplementation
+## Code implementation
 
 ### Python Environments
 
