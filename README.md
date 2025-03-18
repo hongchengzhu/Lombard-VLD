@@ -44,3 +44,13 @@ The download link is: [download link](https://drive.google.com/drive/folders/1Fy
 
 Then, RUN `python validateECAPAModelL_dif_1.py`, and this code will print `EER 0.24%`. These results correspond to the overall DB-MMLC results in Section 6.3 of our paper.
 
+## Acknowledge
+
+Our project was inspired by: [TaoRuijie/ECAPA-TDNN](https://github.com/TaoRuijie/ECAPA-TDNN).
+
+
+
+
+
+
+
