@@ -7,17 +7,17 @@ Official implementation of Lombard-VLD (IEEE S\&P 25)
 
 Congratulations! Our paper titled "*Lombard-VLD: Voice Liveness Detection Based on Human Auditory Feedback*" has been accepted by *IEEE Symposium on Security and Privacy* (***S&P 25***)!
 
-The acceptance was reported by our school at [link](https://cse.whu.edu.cn/info/2651/37981.htm) where you could understand our paper more deeply.
+Our university reported the acceptance at [link](https://news.whu.edu.cn/info/1015/477347.htm), where you can understand our paper more deeply.
 
 - [ ] We are modifying the accepted manuscript for a camera-ready version. The final paper will be released before 17th April AOE.
 
 ### Speech examples
 
-We provide examples of partial speech (including plain and Lombard) at [link](https://hongchengzhu.github.io/Lombard-VLD-speech-examples/). If you need the entire dataset for research, please feel free to contact us! 
+We provide examples of partial speech (including plain and Lombard) at [link](https://hongchengzhu.github.io/Lombard-VLD-speech-examples/). If you need the entire dataset for research, please feel free to contact us! Note that we keep all the rights on the released speech examples. Each one should reasonably and legally use these speeches.
 
 ## Code implementation
 
-### Python Environments
+### Python Environment
 
 python = 3.7.16
 
