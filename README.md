@@ -1,5 +1,5 @@
 # Lombard-VLD
-Official implementation of Lombard-VLD (IEEE S\&P 25) by @hongchengzhu.
+Official implementation of Lombard-VLD (IEEE S\&P 25).
 
 ## What we provided
 
