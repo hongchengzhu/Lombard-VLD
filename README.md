@@ -13,7 +13,7 @@ Our university reported the acceptance at [link](https://news.whu.edu.cn/info/10
 
 ### Speech examples
 
-We provide examples of partial speech (including plain and Lombard) at [link](https://hongchengzhu.github.io/Lombard-VLD-speech-examples/). If you need the entire dataset for research, please feel free to contact us! Note that we keep all the rights on the released speech examples. Each one should reasonably and legally use these speeches.
+We provide examples of partial speech (including plain and Lombard) at [link](https://hongchengzhu.github.io/Lombard-VLD-speech-examples/). If you need the entire dataset for research, please feel free to contact us! **Note that we keep all the rights on the released speech examples. Each one should reasonably and legally use these speeches**.
 
 ## Code implementation
 
