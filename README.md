@@ -7,7 +7,7 @@ Official implementation of Lombard-VLD (IEEE S\&P 25).
 
 Congratulations! Our paper titled "*Lombard-VLD: Voice Liveness Detection Based on Human Auditory Feedback*" has been accepted by *IEEE Symposium on Security and Privacy* (***S&P 25***)!
 
-Our university reported the acceptance at [link](https://news.whu.edu.cn/info/1015/477347.htm), where you can understand our paper more deeply.
+Our university reported the acceptance at [link](https://news.whu.edu.cn/info/1015/477347.htm), which may help you understand our paper more deeply.
 
 - [ ] We are modifying the accepted manuscript for a camera-ready version. The final paper will be released before 17th April AOE.
 
