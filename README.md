@@ -9,7 +9,7 @@ Congratulations! Our paper titled "*Lombard-VLD: Voice Liveness Detection Based 
 
 Our university reported the acceptance at [link](https://news.whu.edu.cn/info/1015/477347.htm), which may help you understand our paper more deeply.
 
-- [ ] We are modifying the accepted manuscript for a camera-ready version. The final paper will be released before 17th April AOE.
+Our paper can be accessed at [link](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d971/26hiVTeRgFW).
 
 ### Speech examples
 
