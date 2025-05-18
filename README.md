@@ -7,13 +7,13 @@ Official implementation of Lombard-VLD (IEEE S\&P 25).
 
 Congratulations! Our paper titled "*Lombard-VLD: Voice Liveness Detection Based on Human Auditory Feedback*" has been accepted by *IEEE Symposium on Security and Privacy* (***S&P 25***)!
 
-Our university reported the acceptance at [link](https://news.whu.edu.cn/info/1015/477347.htm), which may help you understand our paper more deeply.
+Our university reported the acceptance at [link1](https://news.whu.edu.cn/info/1015/477347.htm), which may help you understand our paper more deeply.
 
-Our paper can be accessed at [link](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d971/26hiVTeRgFW).
+Our paper can be accessed at [link2](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d971/26hiVTeRgFW).
 
 ### Speech examples
 
-We provide examples of partial speech (including plain and Lombard) at [link](https://hongchengzhu.github.io/Lombard-VLD-speech-examples/). If you need the entire dataset for research, please feel free to contact us! **Note that we keep all the rights to the released speech examples. Each one should reasonably and legally use these speeches**.
+We provide examples of partial speech (including plain and Lombard) at [link3](https://hongchengzhu.github.io/Lombard-VLD-speech-examples/). If you need the entire dataset for research, please feel free to contact us! **Note that we keep all the rights to the released speech examples. Each one should reasonably and legally use these speeches**.
 
 ## Code implementation
 
@@ -40,7 +40,7 @@ Others: You can install any necessary packages by "pip install xxx".
 
 First, you should download some necessary files, including dataset, file_list, stored model, etc.
 
-The download link is: [download link](https://drive.google.com/drive/folders/1FyE3JABE86trg5SPFKDSXm8ADRyhm_FU?usp=drive_link). You are advised to download and move all folders to this project folder path.
+The download link is: [link4](https://drive.google.com/drive/folders/1FyE3JABE86trg5SPFKDSXm8ADRyhm_FU?usp=drive_link). You are advised to download and move all folders to this project folder path.
 
 Then, RUN `python validateECAPAModelL_dif_1.py`, and this code will print `EER 0.24%`. These results correspond to the overall DB-MMLC results in Section 6.3 of our paper.
 
@@ -68,7 +68,7 @@ month =May}
 
 ## Acknowledge
 
-Our project was inspired by: [TaoRuijie/ECAPA-TDNN](https://github.com/TaoRuijie/ECAPA-TDNN).
+Our code project was partially inspired by: [TaoRuijie/ECAPA-TDNN](https://github.com/TaoRuijie/ECAPA-TDNN).
 
 
 
