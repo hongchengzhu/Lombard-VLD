@@ -9,7 +9,7 @@ Congratulations! Our paper titled "*Lombard-VLD: Voice Liveness Detection Based 
 
 Our university reported the acceptance at [link1](https://news.whu.edu.cn/info/1015/477347.htm), which may help you understand our paper more deeply.
 
-Our paper can be accessed at [link2](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d971/26hiVTeRgFW).
+Our paper can be accessed at [link2](https://ieeexplore.ieee.org/document/11023446).
 
 ### Speech examples
 
@@ -47,21 +47,16 @@ Then, RUN `python validateECAPAModelL_dif_1.py`, and this code will print `EER 0
 ## Citation
 If our work is helpful to you, please cite our paper as follows:
 ```
-@INPROCEEDINGS {
-author = { Zhu, Hongcheng and Sun, Zongkun and Ren, Yanzhen and He, Kun and Yan, Yongpeng and Wang, Zixuan and Liu, Wuyang and Yang, Yuhong and Tu, Weiping },
-booktitle = { 2025 IEEE Symposium on Security and Privacy (SP) },
-title = {{ Lombard-VLD: Voice Liveness Detection based on Human Auditory Feedback }},
-year = {2025},
-volume = {},
-ISSN = {2375-1207},
-pages = {4303-4320},
-abstract = { },
-keywords = {liveness detection;peech spoofing},
-doi = {10.1109/SP61157.2025.00226},
-url = {https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00226},
-publisher = {IEEE Computer Society},
-address = {Los Alamitos, CA, USA},
-month =May}
+@INPROCEEDINGS{11023446,
+  author={Zhu, Hongcheng and Sun, Zongkun and Ren, Yanzhen and He, Kun and Yan, Yongpeng and Wang, Zixuan and Liu, Wuyang and Yang, Yuhong and Tu, Weiping},
+  booktitle={2025 IEEE Symposium on Security and Privacy (SP)}, 
+  title={Lombard-VLD: Voice Liveness Detection Based on Human Auditory Feedback}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={4303-4320},
+  keywords={Loudspeakers;Privacy;Accuracy;Working environment noise;Authentication;Physiology;Environmental factors;Acoustics;Security;Noise measurement;liveness detection;peech spoofing},
+  doi={10.1109/SP61157.2025.00226}}
 ```
 
 
